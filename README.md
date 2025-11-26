@@ -1,7 +1,8 @@
 单手笔顺输入法 one-hand_HongMeng 鸿蒙版（开源免费软件）
 ------
 国内_开源地址：<a href="https://gitee.com/yq-ysy/one-hand_HongMeng">https://gitee.com/yq-ysy/one-hand_HongMeng</a><br>
-由于gitee限制单个文件大小，无法上传保存，请转到网盘下载安装包。<br>
+国外_开源地址：<a href="https://github.com/YQ-YSY/one-hand_HongMeng">https://github.com/YQ-YSY/one-hand_HongMeng</a><br>
+由于gitee和github限制单个文件大小，无法上传保存，请转到网盘下载安装包。<br>
 
 网盘下载：
 ------
