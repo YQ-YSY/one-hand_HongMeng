@@ -6,14 +6,14 @@
 
 网盘下载：
 ------
-单手笔顺（鸿蒙）.zip（大小393M，已包含407万词库并已转码）<br>
+单手笔顺（鸿蒙）输入法.zip（大小396M，已包含407万词库并已转码）<br>
 您也可以直接给我发送电子邮件 YQ-YSY@163.com 我会回复邮件发送给您。<br>
-天翼云盘： [https://cloud.189.cn/web/share?code=EfyqiuMvmIRv](https://cloud.189.cn/web/share?code=EfyqiuMvmIRv) <br>
-访问码： ikh7 <br>
-百度网盘： [https://pan.baidu.com/s/1bl8i1-g-bpX6q492C4kOyw?pwd=uegc](https://pan.baidu.com/s/1bl8i1-g-bpX6q492C4kOyw?pwd=uegc) <br>
-提取码:  uegc <br>
+天翼云盘： [https://cloud.189.cn/web/share?code=ZZ7Vzi3ea6Vv](https://cloud.189.cn/web/share?code=ZZ7Vzi3ea6Vv) <br>
+访问码： u2ff <br>
+百度网盘： [https://pan.baidu.com/s/1JTi1FxLAewL7UldThE0cFA?pwd=h6fc](https://pan.baidu.com/s/1JTi1FxLAewL7UldThE0cFA?pwd=h6fc) <br>
+提取码:  h6fc <br>
 坚果云： [https://www.jianguoyun.com/p/DfqvfEsQgvjVCBjukpEGIAA](https://www.jianguoyun.com/p/DfqvfEsQgvjVCBjukpEGIAA) <br>
-腾讯微云： [https://share.weiyun.com/CAaZqA6b](https://share.weiyun.com/CAaZqA6b) <br>
+腾讯微云： [https://share.weiyun.com/fFWcgo7F](https://share.weiyun.com/fFWcgo7F) <br>
 
 安装打字（视频）教程：鸿蒙版“单手笔顺输入法”
 ------
@@ -23,7 +23,7 @@ B站： [https://www.bilibili.com/video/BV1DwUBBLEqm/](https://www.bilibili.com/
 
 安装方法
 ------
-（1）到各大网盘下载“单手笔顺（鸿蒙）.zip”文件（大小382M，已包含412万词库并已转码）。<br>
+（1）到各大网盘下载“单手笔顺（鸿蒙）输入法.zip”文件（大小396M，已包含407万词库并已转码）。<br>
 （2）鸿蒙手机电脑=>应用市场=>搜索“超越输入法”=>安装。<br>
 （3）启动“超越输入法”=>（中部）导入=>选择“单手笔顺（鸿蒙）.zip”文件=>等待约一二分钟，中途不要让手机熄屏，等待出现“导入成功”的提示（不必部署）。<br>
 （4）回到上一级，“超越输入法”=>主题=>按您的个人习惯，可选择“单手笔顺（双手）键盘、（左手）键盘、（右手）键盘”。<br>
