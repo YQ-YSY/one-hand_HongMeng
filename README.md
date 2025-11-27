@@ -6,7 +6,7 @@
 
 网盘下载：
 ------
-单手笔顺（鸿蒙）.zip（大小393M，已包含412万词库并已转码）<br>
+单手笔顺（鸿蒙）.zip（大小393M，已包含407万词库并已转码）<br>
 您也可以直接给我发送电子邮件 YQ-YSY@163.com 我会回复邮件发送给您。<br>
 天翼云盘： [https://cloud.189.cn/web/share?code=EfyqiuMvmIRv](https://cloud.189.cn/web/share?code=EfyqiuMvmIRv) <br>
 访问码： ikh7 <br>
