@@ -7,15 +7,13 @@
 网盘下载：
 ------
 单手笔顺（鸿蒙）.zip（大小382M，已包含412万词库并已转码）<br>
-<br>
+您也可以直接给我发送电子邮件 YQ-YSY@163.com 我会回复邮件发送给您。<br>
 天翼云盘： [https://cloud.189.cn/web/share?code=6niUjqR3qQbu](https://cloud.189.cn/web/share?code=6niUjqR3qQbu) <br>
 访问码： p7nc <br>
 百度网盘： [https://pan.baidu.com/s/1aK0GByuZ_5eunQoXL6T2TA?pwd=7x5d](https://pan.baidu.com/s/1aK0GByuZ_5eunQoXL6T2TA?pwd=7x5d) <br>
 提取码:  7x5d <br>
 坚果云： [https://www.jianguoyun.com/p/DUtRoI0QgvjVCBjokY0GIAA](https://www.jianguoyun.com/p/DUtRoI0QgvjVCBjokY0GIAA) <br>
 腾讯微云： [https://share.weiyun.com/GT2Sy1lF](https://share.weiyun.com/GT2Sy1lF) <br>
-<br>
-您也可以直接给我发送电子邮件 YQ-YSY@163.com 我会回复邮件发送给您。<br>
 
 安装打字（视频）教程：鸿蒙版“单手笔顺输入法”
 ------
