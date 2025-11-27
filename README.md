@@ -6,14 +6,14 @@
 
 网盘下载：
 ------
-单手笔顺（鸿蒙）.zip（大小382M，已包含412万词库并已转码）<br>
+单手笔顺（鸿蒙）.zip（大小393M，已包含412万词库并已转码）<br>
 您也可以直接给我发送电子邮件 YQ-YSY@163.com 我会回复邮件发送给您。<br>
-天翼云盘： [https://cloud.189.cn/web/share?code=6niUjqR3qQbu](https://cloud.189.cn/web/share?code=6niUjqR3qQbu) <br>
-访问码： p7nc <br>
-百度网盘： [https://pan.baidu.com/s/1aK0GByuZ_5eunQoXL6T2TA?pwd=7x5d](https://pan.baidu.com/s/1aK0GByuZ_5eunQoXL6T2TA?pwd=7x5d) <br>
-提取码:  7x5d <br>
-坚果云： [https://www.jianguoyun.com/p/DUtRoI0QgvjVCBjokY0GIAA](https://www.jianguoyun.com/p/DUtRoI0QgvjVCBjokY0GIAA) <br>
-腾讯微云： [https://share.weiyun.com/GT2Sy1lF](https://share.weiyun.com/GT2Sy1lF) <br>
+天翼云盘： [https://cloud.189.cn/web/share?code=EfyqiuMvmIRv](https://cloud.189.cn/web/share?code=EfyqiuMvmIRv) <br>
+访问码： ikh7 <br>
+百度网盘： [https://pan.baidu.com/s/1bl8i1-g-bpX6q492C4kOyw?pwd=uegc](https://pan.baidu.com/s/1bl8i1-g-bpX6q492C4kOyw?pwd=uegc) <br>
+提取码:  uegc <br>
+坚果云： [https://www.jianguoyun.com/p/DfqvfEsQgvjVCBjukpEGIAA](https://www.jianguoyun.com/p/DfqvfEsQgvjVCBjukpEGIAA) <br>
+腾讯微云： [https://share.weiyun.com/CAaZqA6b](https://share.weiyun.com/CAaZqA6b) <br>
 
 安装打字（视频）教程：鸿蒙版“单手笔顺输入法”
 ------
