@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-# one-hand_HongMeng
-单手笔顺输入法（鸿蒙版）
-=======
 单手笔顺输入法 one-hand_HongMeng 鸿蒙版（开源免费软件）
 ------
 国内_开源地址：<a href="https://gitee.com/yq-ysy/one-hand_HongMeng">https://gitee.com/yq-ysy/one-hand_HongMeng</a><br>
+国外_开源地址：<a href="https://github.com/YQ-YSY/one-hand_HongMeng">https://github.com/YQ-YSY/one-hand_HongMeng</a><br>
 由于gitee限制单个文件大小，无法上传保存，请转到网盘下载安装包。<br>
 
 网盘下载：
@@ -19,6 +16,12 @@
 腾讯微云： [https://share.weiyun.com/GT2Sy1lF](https://share.weiyun.com/GT2Sy1lF) <br>
 <br>
 您也可以直接给我发送电子邮件 YQ-YSY@163.com 我会回复邮件发送给您。<br>
+
+安装打字（视频）教程：鸿蒙版“单手笔顺输入法”
+------
+抖音： [https://www.douyin.com/video/7577202760756595995](https://www.douyin.com/video/7577202760756595995) <br>
+知乎： [https://www.zhihu.com/zvideo/1977304770260797076](https://www.zhihu.com/zvideo/1977304770260797076) <br>
+B站： [https://www.bilibili.com/video/BV1DwUBBLEqm/](https://www.bilibili.com/video/BV1DwUBBLEqm/) <br>
 
 安装方法
 ------
@@ -112,4 +115,3 @@ B站（视频）：[https://space.bilibili.com/3546651209763709/lists/4030817?ty
 B站（图文）：[https://www.bilibili.com/read/readlist/rl815072](https://www.bilibili.com/read/readlist/rl815072) <br>
 抖音：[https://www.douyin.com/collection/7468974287261534235/1](https://www.douyin.com/collection/7468974287261534235/1) <br>
 
->>>>>>> 61f4ff1 (2025年11月26日_更新)
