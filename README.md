@@ -1,5 +1,8 @@
 单手笔顺输入法 one-hand_HongMeng 鸿蒙版（开源免费软件）
 ------
+单手笔顺输入法（鸿蒙版）——在纯血原生鸿蒙系统的手机电脑上，使用数字编码打出汉字。<br>
+目前已能在原生鸿蒙系统的“超越输入法平台”上正常使用。 <br>
+版权：GPL v3+ <br>
 国内_开源地址：<a href="https://gitee.com/yq-ysy/one-hand_HongMeng">https://gitee.com/yq-ysy/one-hand_HongMeng</a><br>
 国外_开源地址：<a href="https://github.com/YQ-YSY/one-hand_HongMeng">https://github.com/YQ-YSY/one-hand_HongMeng</a><br>
 由于gitee和github限制单个文件大小，无法上传保存，请转到网盘下载安装包。<br>
@@ -8,12 +11,12 @@
 ------
 单手笔顺（鸿蒙）输入法.zip（大小393M，已包含407万词库并已转码）<br>
 您也可以直接给我发送电子邮件 YQ-YSY@163.com 我会回复邮件发送给您。<br>
-天翼云盘： [https://cloud.189.cn/web/share?code=jeUvIjnUjAVb](https://cloud.189.cn/web/share?code=jeUvIjnUjAVb) <br>
-访问码： v8z5 <br>
-百度网盘： [https://pan.baidu.com/s/1fH2ywrnIRIHam6yxZpDRDw?pwd=q374](https://pan.baidu.com/s/1fH2ywrnIRIHam6yxZpDRDw?pwd=q374) <br>
-提取码:  q374 <br>
+天翼云盘： [https://cloud.189.cn/web/share?code=FzIj6bUjIvea](https://cloud.189.cn/web/share?code=FzIj6bUjIvea) <br>
+访问码： 5gqa <br>
+百度网盘： [https://pan.baidu.com/s/17K6XESLo3jke9w9gIpCJoA?pwd=fbua](https://pan.baidu.com/s/17K6XESLo3jke9w9gIpCJoA?pwd=fbua) <br>
+提取码:  fbua <br>
 坚果云： [https://www.jianguoyun.com/p/DUtRoI0QgvjVCBjokY0GIAA](https://www.jianguoyun.com/p/DUtRoI0QgvjVCBjokY0GIAA) <br>
-腾讯微云： [https://share.weiyun.com/MXILPrZh](https://share.weiyun.com/MXILPrZh) <br>
+腾讯微云： [https://share.weiyun.com/d1VPiwfl](https://share.weiyun.com/d1VPiwfl) <br>
 
 安装打字（视频）教程：鸿蒙版“单手笔顺输入法”
 ------
@@ -26,7 +29,8 @@ B站： [https://www.bilibili.com/video/BV1DwUBBLEqm/](https://www.bilibili.com/
 （1）到各大网盘下载“单手笔顺（鸿蒙）输入法.zip”文件（大小393M，已包含407万词库并已转码）。<br>
 （2）鸿蒙手机电脑=>应用市场=>搜索“超越输入法”=>安装。<br>
 （3）启动“超越输入法”=>（中部）导入=>选择“单手笔顺（鸿蒙）.zip”文件=>等待约一二分钟，中途不要让手机熄屏，等待出现“导入成功”的提示（不必部署）。<br>
-（4）回到上一级，“超越输入法”=>主题=>按您的个人习惯，可选择“单手笔顺（双手）键盘、（左手）键盘、（右手）键盘”。<br>
+（4）回到上一级，“超越输入法”=>（顶部）选择键盘=>单手笔顺（鸿蒙）=>单手笔顺。
+（5）回到上一级，“超越输入法”=>主题=>按您的个人习惯，可选择“单手笔顺（双手）键盘、（左手）键盘、（右手）键盘”。<br>
 ————【 安装完毕 】————<br>
 <p></p>
 
@@ -64,15 +68,6 @@ B站： [https://www.bilibili.com/video/BV1DwUBBLEqm/](https://www.bilibili.com/
 
 提示
 ------
-单手笔顺输入法（鸿蒙版）——在纯血原生鸿蒙系统的手机电脑上，使用数字编码打出汉字。<br>
-版权：GPL v3+ <br>
-基于“单手笔顺输入法码表（one-hand_code）” <br>
-[https://gitee.com/yq-ysy/one-hand_mb](https://gitee.com/yq-ysy/one-hand_mb) <br>
-[https://github.com/YQ-YSY/stroke-seq_MB](https://github.com/YQ-YSY/stroke-seq_MB) <br>
-基于“Rime输入法引擎（中州韵、小狼毫）” <br>
-[https://rime.im/](https://rime.im/) <br>
-目前已能在原生鸿蒙系统的“超越输入法平台”上正常使用。 <br>
-
 单手笔顺输入法——打字用的是数字，包含三层编码：精简码、六全码、笔顺码。<br>
 每个汉字，最少只需打一个数字，最多只需打6个数字，单字和词组几乎没有重码。<br>
 现共录入有20988个汉字，54万关键词库，192万常用词汇短语，160万扩展分类词库。<br>
@@ -87,17 +82,13 @@ B站： [https://www.bilibili.com/video/BV1DwUBBLEqm/](https://www.bilibili.com/
 统信 Uos、银河麒麟 Kylin、深度 Deepin、<br>
 Windows10、Windows11、Ubuntu、UbuntuStudio、Fedora 。<br>
 
-电脑版软件下载_各大网盘下载_地址列表
+单手笔顺输入法 one-hand_Rime 3.1 版（开源免费软件）
 ------
-以下是手机电脑纯血原生鸿蒙系统的“单手笔顺（鸿蒙版）.zip”（75M）各大网盘下载地址：<br>
-您也可以直接给我发送电子邮件 YQ-YSY@163.com 我会回复邮件发送给您。<br>
+原生鸿蒙版_国内下载地址：[https://gitee.com/yq-ysy/one-hand_HongMeng](https://gitee.com/yq-ysy/one-hand_HongMeng)<br>
+电脑版_国内下载地址：[https://gitee.com/yq-ysy/one-hand_-rime](https://gitee.com/yq-ysy/one-hand_-rime)<br>
+原生鸿蒙版_国外下载地址：[https://github.com/YQ-YSY/one-hand_HongMeng](https://github.com/YQ-YSY/one-hand_HongMeng)<br>
+电脑版_国外下载地址：[https://github.com/YQ-YSY/one-hand_Rime](https://github.com/YQ-YSY/one-hand_Rime)<br>
 
-天翼云盘：[https://cloud.189.cn/web/share?code=z2YnieIBBvY3](https://cloud.189.cn/web/share?code=z2YnieIBBvY3)<br>
-访问码： ow6e<br>
-百度云：[https://pan.baidu.com/s/14IZ2HDq-y1w0PBuiP4EQxQ?pwd=eqiz](https://pan.baidu.com/s/14IZ2HDq-y1w0PBuiP4EQxQ?pwd=eqiz)<br>
-提取码： eqiz<br>
-坚果云：[https://www.jianguoyun.com/p/DUtRoI0QgvjVCBjokY0GIAA](https://www.jianguoyun.com/p/DUtRoI0QgvjVCBjokY0GIAA)<br>
-腾讯微云：[https://share.weiyun.com/kN0z36G6](https://share.weiyun.com/kN0z36G6)<br>
 
 打字技巧（视频教程）专栏合集
 ------
